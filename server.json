@@ -3,15 +3,15 @@
   "name": "io.github.ulazai/media",
   "title": "UlazAI Media",
   "description": "Create private AI images with your UlazAI account: pick a model, confirm, generate, download.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://ulazai.com/",
   "repository": {
-    "url": "https://github.com/smrht/ulazai-mcp",
+    "url": "https://github.com/ulazai/ulazai-mcp",
     "source": "github"
   },
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/smrht/ulazai-mcp/main/logo-400.png",
+      "src": "https://raw.githubusercontent.com/ulazai/ulazai-mcp/main/logo-400.png",
       "mimeType": "image/png",
       "sizes": [
         "400x400"
